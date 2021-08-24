@@ -24,3 +24,6 @@ You can also ignore the "YourMainClassName" parameter as shown below:
 > jpc YourProjectName
 
 By doing that, your main class will be called **"Main"**.
+
+### Demonstration:
+<img src="https://lh3.googleusercontent.com/MTDEE7cfuTj_LTIZojw5yQGYIwg0HXsfD9s2AcvQWH4TOuCsSpWuupDlsps1GXEMCAmC7zq86S5H2EDlhASu=w1920-h969-rw"></img>
