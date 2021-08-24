@@ -26,4 +26,5 @@ You can also ignore the "YourMainClassName" parameter as shown below:
 By doing that, your main class will be called **"Main"**.
 
 ### Demonstration:
-<img src="https://lh3.googleusercontent.com/MTDEE7cfuTj_LTIZojw5yQGYIwg0HXsfD9s2AcvQWH4TOuCsSpWuupDlsps1GXEMCAmC7zq86S5H2EDlhASu=w1920-h969-rw"></img>
+<a href="https://drive.google.com/uc?export=view&id=1zsAQF-bxamC9EHQWEqjD30A4l9N9G-sk">
+<img src="https://drive.google.com/uc?export=view&id=1zsAQF-bxamC9EHQWEqjD30A4l9N9G-sk" style="max-width: 100%; height: auto" title="Click to enlarge gif"/>
