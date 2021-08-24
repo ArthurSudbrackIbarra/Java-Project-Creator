@@ -12,6 +12,7 @@ public class Main {
 
         if(args.length < 2) {
             System.out.println("\nInvalid parameters. You must at least provide the project name.");
+            System.exit(2);
             return;
         } else if(args.length == 2) {
             currentDirectory = args[0];
