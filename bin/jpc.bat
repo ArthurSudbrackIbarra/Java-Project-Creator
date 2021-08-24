@@ -1,3 +1,5 @@
+@echo off
+
 java -jar %~dp0jpc.jar %cd% %1 %2
 
 set javaExitCode=%ERRORLEVEL%
