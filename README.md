@@ -8,7 +8,7 @@ Automatically create Java projects and open them in Visual Studio Code. (Windows
 #### Windows:
 1. Clone this repository anywhere you wish.
 2. Open a Command Prompt instance as an administrator.
-3. Go to the 'bin' directory. (Example: C:\Users\Arthur\Desktop\Java-Project-Creator\windows\bin).
+3. Go to the 'bin' folder. (Example: C:\Users\Arthur\Desktop\Java-Project-Creator\windows\bin).
 4. Type the command below:
 > setup-jpc.bat
 
