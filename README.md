@@ -7,17 +7,15 @@ Automatically create Java projects and open them in Visual Studio Code. (Windows
 
 #### Windows:
 1. Clone this repository anywhere you wish.
-2. Open a Command Prompt instance as an administrator.
-3. Go to the 'bin' folder. (Example: C:\Users\Arthur\Desktop\Java-Project-Creator\windows\bin).
-4. Type the command below:
-> setup-jpc.bat
+2. Copy the path of the 'bin' folder you cloned. (Example: C:\Users\Arthur\Desktop\Java-Project-Creator\windows\bin).
+3. Create a path environment variable in your computer with the path you copied. More on how to do that here: https://www.computerhope.com/issues/ch000549.htm
 
 **NOTE:** jpc.bat and jpc.jar **MUST** be in the **SAME** directory, do not separate them.
 
 #### Linux Ubuntu:
 1. Clone this repository anywhere you wish.
 2. Open a Shell instance.
-3. Go to the 'linux' folder. (Example: /home/arthur/Java-Project-Creator/linux).
+3. Go to the 'linux' folder you cloned. (Example: /home/arthur/Java-Project-Creator/linux).
 4. Type the command below:
 > sh setup-jpc.sh
 
