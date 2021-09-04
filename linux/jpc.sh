@@ -9,7 +9,7 @@ JAVA_EXIT_CODE="${?}"
 case $JAVA_EXIT_CODE in
     0)
         cd $1
-        code.
+        code .
         ;;
     1)
         cd $1
